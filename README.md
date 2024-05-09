@@ -5,7 +5,7 @@ A project to refamiliarize myself with Python syntax and for the fun of building
 
 ## To Play:
 Either:
-1. Open your favorite IDE and run main.py
+1. Open your favorite IDE and run `main.py`
 2. In the terminal run `python main.py`
 
 ### Controls:
