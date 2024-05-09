@@ -1,5 +1,6 @@
 # Intro to Pygame
 Follwing alowng with this tutorial: https://www.youtube.com/watch?v=AY9MnQ4x3zk&ab_channel=ClearCode
+
 A project to refamiliarize myself with Python syntax and for the fun of building a game.
 
 ## To Play:
