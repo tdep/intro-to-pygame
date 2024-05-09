@@ -13,3 +13,11 @@ Either:
 
 ### Object:
 Avoid the bugs
+
+## Things I would do if I were to expand on this:
+1. Add Scoreboard for best scores
+2. Add levels of dificulty
+3. Change scoring mechanism from time based to obstacle based
+4. Add bonus items
+5. Add lives
+6. Add health-packs
